@@ -16,7 +16,7 @@ Welcome to the Node.js Web Service Template! This starter template is designed t
 
 - Error Handling: Centralized error handling to manage and respond to errors gracefully.
 
-- Database Integration: Basic setup for integrating with a database (e.g., MongoDB, PostgreSQL) to store and manage data.
+- Database Integration: Basic setup for integrating with a database  MongoDB to store and manage data.
 
 - Request Validation: Ensure incoming data meets expected formats and constraints using validation middleware.
 
