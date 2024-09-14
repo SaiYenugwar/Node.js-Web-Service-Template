@@ -74,4 +74,4 @@ node server.js
 
 Contact
 If you have any questions or suggestions, please feel free to reach out to me at 
-- [@Sai Yenugwar](https://saiyenugwar.bio.link/)
+- [@Sai Yenugwar](https://saiyenugwar.netlify.app)
