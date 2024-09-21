@@ -59,15 +59,16 @@ node server.js
 ```
 /nodejs-web-service-template
 │
-├── /config              # Configuration files (e.g., environment setup)
-├── /controllers         # Route handlers
-├── /middleware          # Authentication and validation middleware
-├── /models              # Database models
-├── /routes              # API routes
+├── /src                 # All source code goes here
+│   ├── /config          # Configuration files (e.g., environment setup)
+│   ├── /controllers     # Route handlers
+│   ├── /middleware      # Authentication and validation middleware
+│   ├── /models          # Database models
+│   ├── /routes          # API routes
+|   ├── app.js           # Application setup and middleware configuration
+├── server.js            # Main application entry point
 │
 ├── .env                 # Environment variables
-├── app.js               # Application setup and middleware configuration
-├── server.js            # Main application entry point point
 ├── package.json         # Project metadata and dependencies
 └── README.md            # Project documentation
 ```
