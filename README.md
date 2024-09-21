@@ -30,9 +30,9 @@ Follow these steps to get your Node.js web service up and running:
 
 ```
 git clone https://github.com/SaiYenugwar/Node.js-Web-Service-Template.git
-cd nodejs-web-service-template
 
 ```
+cd nodejs-web-service-template
 
 - Install Dependencies:
 
