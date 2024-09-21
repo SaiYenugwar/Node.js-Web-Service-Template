@@ -65,8 +65,8 @@ node server.js
 │   ├── /middleware      # Authentication and validation middleware
 │   ├── /models          # Database models
 │   ├── /routes          # API routes
-|   ├── app.js               # Application setup and middleware configuration
-├── server.js            # Main application entry point point
+|   ├── app.js           # Application setup and middleware configuration
+├── server.js            # Main application entry point
 │
 ├── .env                 # Environment variables
 ├── package.json         # Project metadata and dependencies
